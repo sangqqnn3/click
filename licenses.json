@@ -1,0 +1,32 @@
+{
+    "version":  "2.0",
+    "system_buffers_check":  false,
+    "settings":  {
+                     "retry_count":  3,
+                     "check_interval":  300,
+                     "timeout":  30
+                 },
+    "hardware_check_enabled":  true,
+    "alternative_check":  true,
+    "last_updated":  "2025-07-31 13:50:28",
+    "licenses":  [
+                     {
+                         "IsActive":  true,
+                         "ExpiryDate":  "2029-12-31",
+                         "LicenseKey":  "trOVUSrt82dczhOTmXyJ",
+                         "HardwareId":  "trOVUSrt82dczhOTmXyJ",
+                         "ActivatedDate":  "2024-12-31",
+                         "Email":  "customer@domain.com",
+                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                     },
+                     {
+                         "IsActive":  true,
+                         "ExpiryDate":  "2029-12-31",
+                         "LicenseKey":  "LICENSE-20241231-001",
+                         "HardwareId":  "AYAkYTY1GSGasjUBzfa",
+                         "ActivatedDate":  "2024-12-31",
+                         "Email":  "customer@domain.com",
+                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                     }
+                 ]
+}
