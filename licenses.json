@@ -13,11 +13,11 @@
                      {
                          "IsActive":  true,
                          "ExpiryDate":  "2029-12-31",
-                         "LicenseKey":  "trOVUSrt82dczhOTmXyJ",
-                         "HardwareId":  "trOVUSrt82dczhOTmXyJ",
+                         "LicenseKey":  "LICENSE-20241231-002",
+                         "HardwareId":  "8AXJD2TMQ99VVET64BYB1IVT",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
-                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                         "CustomerName":  "admin-may1"
                      },
                      {
                          "IsActive":  true,
@@ -26,7 +26,7 @@
                          "HardwareId":  "UGBONNOKP8SZYDX7B4VLZNMI",
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
-                         "CustomerName":  "TÃªn khÃ¡ch hÃ ng"
+                         "CustomerName":  "admin"
                      }
                  ]
 }
