@@ -36,6 +36,15 @@
                          "ActivatedDate":  "2024-12-31",
                          "Email":  "customer@domain.com",
                          "CustomerName":  "admin"
+                     } ,
+                     {
+                         "IsActive":  true,
+                         "ExpiryDate":  "2029-12-31",
+                         "LicenseKey":  "LICENSE-20241231-004",
+                         "HardwareId":  "UGBONNOKP8SZYDX7B4VLZNMI",
+                         "ActivatedDate":  "2024-12-31",
+                         "Email":  "customer@domain.com",
+                         "CustomerName":  "admin"
                      }
                  ]
 }
