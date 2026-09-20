@@ -1,32 +1,45 @@
 {
-    "version":  "2.0",
-    "system_buffers_check":  false,
-    "settings":  {
-                     "retry_count":  3,
-                     "check_interval":  300,
-                     "timeout":  30
-                 },
-    "hardware_check_enabled":  true,
-    "alternative_check":  true,
-    "last_updated":  "2025-07-31 13:50:28",
-    "licenses":  [
-                     {
-                         "IsActive":  true,
-                         "ExpiryDate":  "2029-12-31",
-                         "LicenseKey":  "LICENSE-20241231-002",
-                         "HardwareId":  "8AXJD2TMQ99VVET64BYB1IVT",
-                         "ActivatedDate":  "2024-12-31",
-                         "Email":  "customer@domain.com",
-                         "CustomerName":  "admin-may1"
-                     },
-                     {
-                         "IsActive":  true,
-                         "ExpiryDate":  "2029-12-31",
-                         "LicenseKey":  "LICENSE-20241231-001",
-                         "HardwareId":  "UGBONNOKP8SZYDX7B4VLZNMI",
-                         "ActivatedDate":  "2024-12-31",
-                         "Email":  "customer@domain.com",
-                         "CustomerName":  "admin"
-                     }
-                 ]
+  "version": "2.0",
+  "last_updated": "2026-09-20 12:00:00",
+  "note": "",
+  "licenses": [
+    {
+      "LicenseKey": "AUTO-MOCLOP-VIP-2026",
+      "CustomerName": "Admin Full Quyền",
+      "HardwareId": "*",
+      "IsActive": true,
+      "ExpiryDate": "2027-12-31",
+      "AllowedSerials": [
+        "*"
+      ],
+      "MaxDevices": 100,
+      "Note": "Key này cho phép chạy trên MỌI MÁY TÍNH (HardwareId: *) và MỌI THIẾT BỊ (AllowedSerials: *)"
+    },
+    {
+      "LicenseKey": "KHACH_HANG_01",
+      "CustomerName": "Nguyen Van A",
+      "HardwareId": "ABC1-DEF2-GHI3-JKL4",
+      "IsActive": true,
+      "ExpiryDate": "2026-12-31",
+      "AllowedSerials": [
+        "R58M123456X",
+        "ZY223HNSFZ",
+        "emulator-5554"
+      ],
+      "MaxDevices": 3,
+      "Note": "Chỉ chạy đúng máy tính HWID ABC1-DEF2-GHI3-JKL4 và chỉ cho phép 3 thiết bị Serial ở trên"
+    },
+    {
+      "LicenseKey": "KHACH_HANG_02",
+      "CustomerName": "Tran Thi B",
+      "HardwareId": "*",
+      "IsActive": true,
+      "ExpiryDate": "2026-10-31",
+      "AllowedSerials": [
+        "988a1b46485848524d"
+      ],
+      "MaxDevices": 1,
+      "Note": "Cho phép chạy trên máy tính bất kỳ nhưng chỉ dùng được đúng 1 điện thoại có Serial chỉ định"
+    }
+  ]
 }
