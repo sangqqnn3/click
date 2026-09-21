@@ -26,7 +26,7 @@
         "ZY223HNSFZ",
         "emulator-5554"
       ],
-      "MaxDevices": 3,
+      "MaxDevices": 100,
       "Note": "Chỉ chạy đúng máy tính HWID ABC1-DEF2-GHI3-JKL4 và chỉ cho phép 3 thiết bị Serial ở trên"
     },
     {
