@@ -20,7 +20,7 @@
       "CustomerName": "Nguyen Van A",
       "HardwareId": "OPFD-FHYG-LC9B-LYW0",
       "IsActive": true,
-      "ExpiryDate": "2026-12-31",
+      "ExpiryDate": "2029-12-31",
       "AllowedSerials": [
         "0CAAYS018GR",
         "0CJAYS01AKA",
@@ -33,13 +33,13 @@
     {
       "LicenseKey": "KHACH_HANG_02",
       "CustomerName": "Tran Thi B",
-      "HardwareId": "*",
+      "HardwareId": "8IIK-0TTC-RX1T-KWIE",
       "IsActive": true,
-      "ExpiryDate": "2026-10-31",
+      "ExpiryDate": "2029-10-31",
       "AllowedSerials": [
         "988a1b46485848524d"
       ],
-      "MaxDevices": 1,
+      "MaxDevices": 100,
       "Note": "Cho phép chạy trên máy tính bất kỳ nhưng chỉ dùng được đúng 1 điện thoại có Serial chỉ định"
     }
   ]
