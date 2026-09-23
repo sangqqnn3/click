@@ -22,7 +22,7 @@
       "CustomerName": "Nguyen Van A",
       "IsAdmin": true,
       "Role": "Admin",
-      "HardwareId": "ABC1-DEF2-GHI3-JKL4",
+      "HardwareId": "OPFD-FHYG-LC9B-LYW0",
       "IsActive": true,
       "ExpiryDate": "2029-12-31",
       "AllowedSerials": [
@@ -37,7 +37,7 @@
     {
       "LicenseKey": "KHACH_HANG_02",
       "CustomerName": "Tran Thi B",
-      "HardwareId": "*",
+      "HardwareId": "8IIK-0TTC-RX1T-KWIE",
       "IsActive": true,
       "ExpiryDate": "2029-10-31",
       "AllowedSerials": [
