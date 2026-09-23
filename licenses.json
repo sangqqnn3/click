@@ -1,11 +1,13 @@
 {
   "version": "2.0",
   "last_updated": "2026-09-20 12:00:00",
-  "note": "",
+  "note": "Cấu trúc file licenses.json chuẩn cho Auto-moclop (Cập nhật lên repo GitHub của bạn: https://raw.githubusercontent.com/sangqqnn3/click/refs/heads/main/licenses.json)",
   "licenses": [
     {
       "LicenseKey": "AUTO-MOCLOP-VIP-2026",
       "CustomerName": "Admin Full Quyền",
+      "IsAdmin": true,
+      "Role": "Admin",
       "HardwareId": "*",
       "IsActive": true,
       "ExpiryDate": "2027-12-31",
@@ -13,12 +15,14 @@
         "*"
       ],
       "MaxDevices": 100,
-      "Note": "Key này cho phép chạy trên MỌI MÁY TÍNH (HardwareId: *) và MỌI THIẾT BỊ (AllowedSerials: *)"
+      "Note": "Key này cho phép chạy trên MỌI MÁY TÍNH (HardwareId: *) và MỌI THIẾT BỊ (AllowedSerials: *), có quyền ADMIN mở tab Video Change"
     },
     {
       "LicenseKey": "KHACH_HANG_01",
       "CustomerName": "Nguyen Van A",
-      "HardwareId": "OPFD-FHYG-LC9B-LYW0",
+      "IsAdmin": true,
+      "Role": "Admin",
+      "HardwareId": "ABC1-DEF2-GHI3-JKL4",
       "IsActive": true,
       "ExpiryDate": "2029-12-31",
       "AllowedSerials": [
@@ -27,13 +31,13 @@
         "13JAYS01H0X",
         "8BKAY00DAA",
       ],
-      "MaxDevices": 100,
+      "MaxDevices": 3,
       "Note": "Chỉ chạy đúng máy tính HWID ABC1-DEF2-GHI3-JKL4 và chỉ cho phép 3 thiết bị Serial ở trên"
     },
     {
       "LicenseKey": "KHACH_HANG_02",
-      "CustomerName": "admin",
-      "HardwareId": "8IIK-0TTC-RX1T-KWIE",
+      "CustomerName": "Tran Thi B",
+      "HardwareId": "*",
       "IsActive": true,
       "ExpiryDate": "2029-10-31",
       "AllowedSerials": [
