@@ -19,9 +19,9 @@
     },
     {
       "LicenseKey": "KHACH_HANG_01",
-      "CustomerName": "Nguyen Van A",
-      "IsAdmin": true,
-      "Role": "Admin",
+      "CustomerName": "admin-test",
+      "IsAdmin": false,
+      "Role": "User",
       "HardwareId": "OPFD-FHYG-LC9B-LYW0",
       "IsActive": true,
       "ExpiryDate": "2029-12-31",
