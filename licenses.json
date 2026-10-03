@@ -19,7 +19,7 @@
     },
     {
       "LicenseKey": "KHACH_HANG_01",
-      "CustomerName": "admin",
+      "CustomerName": "test",
       "IsAdmin": false,
       "Role": "User",
       "HardwareId": "OPFD-FHYG-LC9B-LYW0",
