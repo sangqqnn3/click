@@ -32,6 +32,20 @@
       "Note": "Chỉ chạy đúng máy tính HWID ABC1-DEF2-GHI3-JKL4 và chỉ cho phép 3 thiết bị Serial ở trên"
     },
     {
+      "LicenseKey": "KHACH_HANG_11",
+      "CustomerName": "admin",
+      "IsAdmin": true,
+      "Role": "admin",
+      "HardwareId": "UGBONNOKP8SZYDX7B4VLZNMI",
+      "IsActive": true,
+      "ExpiryDate": "2029-12-31",
+      "AllowedSerials": [
+        "*",
+      ],
+      "MaxDevices": 3,
+      "Note": "Chỉ chạy đúng máy tính HWID ABC1-DEF2-GHI3-JKL4 và chỉ cho phép 3 thiết bị Serial ở trên"
+    },
+    {
       "LicenseKey": "KHACH_HANG_02",
       "CustomerName": "Tran Thi B",
       "HardwareId": "8IIK-0TTC-RX1T-KWIE",
