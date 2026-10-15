@@ -4,8 +4,8 @@
   "note": "Cấu trúc file licenses.json chuẩn cho Auto-moclop (Cập nhật lên repo GitHub của bạn: https://raw.githubusercontent.com/sangqqnn3/click/refs/heads/main/licenses.json)",
   "licenses": [
     {
-      "LicenseKey": "AUTO-MOCLOP-VIP-2026",
-      "CustomerName": "Admin Full Quyền",
+      "LicenseKey": "VIP-2026",
+      "CustomerName": "Admin",
       "IsAdmin": true,
       "Role": "Admin",
       "HardwareId": "*",
@@ -19,9 +19,9 @@
     },
     {
       "LicenseKey": "KHACH_HANG_01",
-      "CustomerName": "admin",
-      "IsAdmin": true,
-      "Role": "admin",
+      "CustomerName": "test",
+      "IsAdmin": false,
+      "Role": "user",
       "HardwareId": "OPFD-FHYG-LC9B-LYW0",
       "IsActive": true,
       "ExpiryDate": "2029-12-31",
