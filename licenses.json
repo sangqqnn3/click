@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "last_updated": "2026-09-20 12:00:00",
-  "note": "Cấu trúc file licenses.json chuẩn cho Auto-moclop (Cập nhật lên repo GitHub của bạn: https://raw.githubusercontent.com/sangqqnn3/click/refs/heads/main/licenses.json)",
+  "note": "Cấu trúc file licenses.json (Cập nhật lên repo GitHub của bạn: https://raw.githubusercontent.com/sangqqnn3/click/refs/heads/main/licenses.json)",
   "licenses": [
     {
       "LicenseKey": "VIP-2026",
