@@ -19,9 +19,9 @@
     },
     {
       "LicenseKey": "KHACH_HANG_01",
-      "CustomerName": "admin",
-      "IsAdmin": true,
-      "Role": "admin",
+      "CustomerName": "test",
+      "IsAdmin": false,
+      "Role": "user",
       "HardwareId": "OPFD-FHYG-LC9B-LYW0",
       "IsActive": true,
       "ExpiryDate": "2029-12-31",
