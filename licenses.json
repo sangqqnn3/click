@@ -250,7 +250,7 @@
       "CustomerName": "test",
       "IsAdmin": false,
       "Role": "User",
-      "HardwareId": "GVSL-OYYE-QSUX-C8OD",
+      "HardwareId": "GVSL-OYYE-QSUX-C8OD1",
       "IsActive": true,
       "ExpiryDate": "2029-12-31",
       "AllowedSerials": [
@@ -302,7 +302,7 @@
       "CustomerName": "test",
       "IsAdmin": false,
       "Role": "User",
-      "HardwareId": "FI9G-BWIO-IUYT-M6VA",
+      "HardwareId": "FI9G-BWIO-IUYT-M6VA1",
       "IsActive": true,
       "ExpiryDate": "2029-12-31",
       "AllowedSerials": [
